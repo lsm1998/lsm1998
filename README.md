@@ -9,15 +9,6 @@
   <p>Focused on building efficient and scalable solutions</p>
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/lsm1998">
-    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lsm1998&theme=algolia&hide_border=true"/>
-    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lsm1998&theme=algolia&hide_border=true"/>
-    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lsm1998&theme=algolia&hide_border=true"/>
-  </a>
-</div>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
